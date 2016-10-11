@@ -5,7 +5,7 @@ from Spider.facebook_crawler import FacebookSpider
 # set webdrive path
 # set profile to scrape
 # start!
-# Download Chrome webdriver from here:
+# Download Chrome webdriver from here: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 fb_username = ''
 fb_password = ''
